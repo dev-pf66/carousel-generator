@@ -97,6 +97,35 @@ This skill is **self-contained** — everything needed is in this folder.
 - Save to `~/Desktop/carousel-{slug}.html`
 - Tell the user: "Open in Chrome → click any slide to isolate → download PNGs or PDF"
 
+### Step 8: Publish via PostBridge (optional)
+After exporting PNGs from the browser:
+
+```bash
+# One-time setup
+export POST_BRIDGE_API_KEY=pb_live_xxxxx
+
+# List your connected social accounts to get account IDs
+node ~/Desktop/carousel-generator/publish.js --list-accounts
+
+# Publish the carousel images (order matters — slide 1 first)
+node ~/Desktop/carousel-generator/publish.js \
+  --files ~/Desktop/carousel-{slug}-slide-1.png \
+          ~/Desktop/carousel-{slug}-slide-2.png \
+          ~/Desktop/carousel-{slug}-slide-3.png \
+  --accounts acc_id1,acc_id2 \
+  --caption "Your caption here"
+
+# Or schedule for later (ISO 8601)
+node ~/Desktop/carousel-generator/publish.js \
+  --files ~/Desktop/carousel-{slug}-*.png \
+  --accounts acc_id1 \
+  --caption "Your caption" \
+  --schedule "2026-04-23T14:00:00Z"
+```
+
+Requires Node.js 18+ (`node --version`). No npm install needed.  
+API add-on: $5/month at [post-bridge.com/dashboard/api-keys](https://www.post-bridge.com/dashboard/api-keys).
+
 ## File Naming
 
 ```
