@@ -1,3 +1,8 @@
+---
+name: carousel-generator
+description: Generate Instagram, LinkedIn or TikTok carousel slides as a single self-contained HTML file that exports to PNG, ZIP or PDF. Two design systems, 9 slide templates. Use for "make a carousel", "turn this into slides", Instagram or LinkedIn carousel content, or a visual breakdown of a framework. Copy comes from the dev-shah-voice skill.
+---
+
 # Carousel Generator
 
 Generate Instagram/LinkedIn/TikTok carousel slides as a single self-contained HTML file. The user opens it in a browser to export PNGs or PDF.
@@ -5,7 +10,7 @@ Generate Instagram/LinkedIn/TikTok carousel slides as a single self-contained HT
 ## Linked skill: dev-shah-voice
 
 Voice/copy for every carousel comes from the companion **`dev-shah-voice`** skill.
-- Local: `/Users/dev/clawd/skills/dev-shah-voice/` (with references/)
+- Local: `~/.claude/skills/dev-shah-voice/` (with references/)
 - GitHub: https://github.com/dev-pf66/dev-shah-voice
 
 Load the voice skill before writing slide copy or captions. Key files inside it:
@@ -113,7 +118,7 @@ These files live alongside SKILL.md and get consulted during the workflow. Read 
 - **Generate 3 hook variants** using patterns from `hooks.md`. Let Dev pick.
 - **If the carousel is about Pocket Fund methodology, deal structure, or client work** — pull numbers and frameworks from `case-studies.md` first. Never invent client specifics.
 - Outline slide-by-slide content plan (slide number, type, headline, key points)
-- Write all copy in Dev's voice — pull from the **`dev-shah-voice`** skill (local: `/Users/dev/clawd/skills/dev-shah-voice/`, GitHub: `github.com/dev-pf66/dev-shah-voice`). Always check its SKILL.md + `references/linkedin-posts.md` before drafting.
+- Write all copy in Dev's voice — pull from the **`dev-shah-voice`** skill (local: `~/.claude/skills/dev-shah-voice/`, GitHub: `github.com/dev-pf66/dev-shah-voice`). Always check its SKILL.md + `references/linkedin-posts.md` before drafting.
 - **Present the plan to the user** with a summary of each slide + the 3 hook options
 
 ### Step 3: Ask for Style
