@@ -104,6 +104,22 @@ These files live alongside SKILL.md and get consulted during the workflow. Read 
 
 **Rule — CTAs:** use only CTA keywords approved in `pocket-fund-facts.md`. Do not invent new ones without asking.
 
+**Rule — 15 words a slide.** Museum-curation research: visitors read an exhibit label for **8-10
+seconds**, with the critical information needed in the **first 15 words**. A carousel slide is an
+exhibit label. **If a slide needs a sixteenth word, it is two slides or a worse sentence.**
+Slide 1 is stricter still — 3-5 words, legible at thumbnail size, because it competes muted.
+
+**Rule — quote the person, don't summarise them.** Labels using first-person quotes show
+materially longer dwell than academic prose. Any slide that can carry a direct quote from the
+buyer, seller or operator should. Summarising is what the newsletter is for.
+
+**Rule — one fixed asset.** The number-card layout, once designed, does not change for a year.
+Distinctive assets are what let someone name the source with the name removed (Ehrenberg-Bass);
+an asset that gets redesigned is not an asset. See `09-attention.md` §3.
+
+> Derived from `wiki/concepts/content-os/09-attention.md` and `10-outside-the-field.md` in the
+> second brain. Those pages carry the evidence and the caveats.
+
 ## Workflow
 
 ### Step 1: Gather Requirements
