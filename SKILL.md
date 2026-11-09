@@ -15,7 +15,7 @@ Voice/copy for every carousel comes from the companion **`dev-shah-voice`** skil
 
 Load the voice skill before writing slide copy or captions. Key files inside it:
 - `SKILL.md` — voice DNA, always/never, hook patterns, content structure
-- `references/linkedin-posts.md` — approved LinkedIn exemplars
+- `references/linkedin-posts.md` — moved: LinkedIn voice is `wiki/linkedin/linkedin-voice.md` in the second-brain repo (old examples archived 2026-11-09, not exemplars)
 - `references/twitter-posts.md` — Twitter exemplars
 - `references/7-readers.md` — 7-reader framework for voice checks
 - `references/content-formulas.md` — proven post skeletons
@@ -165,7 +165,7 @@ an asset that gets redesigned is not an asset. See `09-attention.md` §3.
 
 ### Step 7: Write Companion Caption
 - Write a LinkedIn/Instagram caption to pair with the carousel
-- Follow the **`dev-shah-voice`** skill — specifically its LinkedIn voice spec and the editing sweeps in `references/editing-sweeps.md`
+- For LinkedIn captions follow **`wiki/linkedin/linkedin-voice.md`** in the second-brain repo, not the `dev-shah-voice` sweeps (Dev, 2026-11-09)
 - **Caption hook** — use a different hook pattern from `hooks.md` than slide 1 (the caption teases; slide 1 delivers)
 - **CTA** — pick from approved CTA keywords in `pocket-fund-facts.md`. Don't invent new ones.
 - Include hook, key takeaway, CTA question, 5-8 hashtags
