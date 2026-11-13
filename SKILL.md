@@ -134,7 +134,7 @@ an asset that gets redesigned is not an asset. See `09-attention.md` §3.
 - **Generate 3 hook variants** using patterns from `hooks.md`. Let Dev pick.
 - **If the carousel is about Pocket Fund methodology, deal structure, or client work** — pull numbers and frameworks from `case-studies.md` first. Never invent client specifics.
 - Outline slide-by-slide content plan (slide number, type, headline, key points)
-- Write all copy in Dev's voice — pull from the **`dev-shah-voice`** skill (local: `~/.claude/skills/dev-shah-voice/`, GitHub: `github.com/dev-pf66/dev-shah-voice`). Always check its SKILL.md + `references/linkedin-posts.md` before drafting.
+- Write all copy in Dev's voice — pull from the **`dev-shah-voice`** skill (local: `~/.claude/skills/dev-shah-voice/`, GitHub: `github.com/dev-pf66/dev-shah-voice`). Always check its SKILL.md before drafting. **For a LinkedIn carousel the voice is `wiki/linkedin/linkedin-voice.md` in the second-brain repo, not dev-shah-voice** (its `references/linkedin-posts.md` was archived 2026-11-09 — see line 18).
 - **Present the plan to the user** with a summary of each slide + the 3 hook options
 
 ### Step 3: Ask for Style
