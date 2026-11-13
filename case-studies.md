@@ -6,6 +6,13 @@ type: reference
 
 # Pocket Fund Case Studies
 
+> ⚠️ **2026-11-13: don't name these clients on a carousel.** Dev, 2026-10-24: *"anonomyise things related to our
+> clients/ mandates - this should always be the case"*. Since 2026-09-27 a client deal is described by its type
+> (*"a dinosaur game"*), never by name (`ig-script` rulings 16 and 20). The lines below that call the numbers and
+> quotes "cleared for public use" are older than both rulings. Use the frameworks and the shape of each story.
+> Give the type and a rounded number. Leave out the company name, the city and the exact figures that identify
+> it. Naming either client needs Dev's yes for that carousel.
+
 Structured extracts from the real case study PDFs. Use these when a carousel needs concrete proof of Pocket Fund's methodology — numbers, reframes, and quotes are all cleared for public use (they're already in distributed case studies).
 
 Two case studies on file:

@@ -6,6 +6,20 @@ type: reference
 
 # Pocket Fund Facts — Source of Truth
 
+> ⚠️ **Read first (2026-11-13).** This is an April 2026 snapshot, and the file it was pulled from
+> (`/Users/dev/clawd/USER.md`) was lost in the 2026-09-02 laptop wipe. **`wiki/concepts/canonical-numbers.md` in
+> the second-brain vault wins over every number here.** Known wrong today:
+> - **"30-50 deals/week"** (two places below): the ruled line is *"we look at 10–30 deals a week"* (Dev, 2026-10-05).
+> - **Any Sourcely revenue or MRR figure at exit** ("$6,000", "10×"): never use one, five different values are in
+>   circulation. The $4,000 purchase price (June 2023) and "sold for low six figures in 15 months" are canonical.
+> - **Follower counts, impressions and team size** are April's. Cite `canonical-numbers` or leave them out.
+> - **The Thesis section** (sub-$100K deals, ≤1× revenue, 6-18 month exits) is how Dev bought in 2023–25. What he
+>   says he's looking for now is `ig-script` ruling 8: India · $1–10M enterprise value · 10+ years · founder-led ·
+>   profitable · holds, doesn't flip. Tell the old thesis in the past tense.
+> - **"DM me" and "comment WORD" CTAs** are not used on Dev's Instagram (`ig-script` ruling 11).
+>
+> A number that is here and not in `canonical-numbers` goes to Dev before it goes on a slide.
+
 Real numbers, deals, quotes, proof points. Data pulled from `/Users/dev/clawd/USER.md` (2026-04 snapshot). Items tagged `[CONFIRMED]` came from memory; items tagged `[ASK DEV]` still need Dev to supply.
 
 ---

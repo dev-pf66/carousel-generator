@@ -1,6 +1,12 @@
 # Dev's Carousel Voice
 
-Condensed voice guide for writing carousel slide copy. Dev is a 24-year-old micro PE founder who acquired 7 businesses. Handle: @devlikesbizness.
+Condensed voice guide for writing carousel slide copy. Dev is a 24-year-old micro PE founder who bought his first business, Sourcely, for $4,000 in 2023 and sold it. Handle: @devlikesbizness.
+
+> ⚠️ **2026-11-13: SKILL.md's "Dev's rulings on carousel content" wins over this file.** An Instagram carousel's
+> copy comes from `/ig-script`, and a LinkedIn caption follows `wiki/linkedin/linkedin-voice.md` with no hashtags.
+> "Boring = beautiful" is used rarely and never as a hook or a closing slide (Dev, 2026-10-05). The CTA templates
+> below are not for Dev's Instagram, where the last slide is a question or an open loop. Until 2026-11-13 the
+> line above read "…who acquired 7 businesses"; the credential is Sourcely now (Dev, 2026-10-07).
 
 ## Carousel Copy Rules
 

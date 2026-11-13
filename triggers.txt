@@ -1,0 +1,16 @@
+# /carousel-generator — builds the carousel HTML file (slides, export) and tears carousels down.
+# "make it a carousel" / "instagram carousel" belong to /ig-script, which writes the copy and hands it here.
+carousel generator
+make a carousel
+build a carousel
+build the carousel
+design the carousel
+linkedin carousel
+turn this into slides
+turn this into a carousel
+carousel slides
+export the slides
+analyze this carousel
+roast my carousel
+tear down this carousel
+re:\bwhy did (this|that|the) carousel (hit|flop|work|fail)\b
